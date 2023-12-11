@@ -7,11 +7,9 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 <h1 style="text-align: center;">☕️ Coffee flavor</h1>
 
-# Flavor
-
 *See [coffee beans open info](https://docs.google.com/spreadsheets/d/1OW0JKLS41LJk-a7CvxT3-ngXSZ3PXzbIr9RCAOjQ0C4/edit#gid=0)*
 
-## Taste vs flavor
+# Taste vs flavor
 
 #### Taste
 
@@ -24,7 +22,7 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
     - Fragrance: Dry
     - Aroma: Steam
 
-## Base coffee flavors
+# Base coffee flavors
 
 #### Types
 
@@ -39,17 +37,17 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 #### Resources
 
-- [Tongue map](https://en.wikipedia.org/wiki/Tongue_map) _on Wikipedia_
-- [What to Know About Your Sense of Taste](https://www.healthline.com/health/types-of-taste) _by healthline_
+- [Tongue map](https://en.wikipedia.org/wiki/Tongue_map) *on Wikipedia*
+- [What to Know About Your Sense of Taste](https://www.healthline.com/health/types-of-taste) *by healthline*
 
-## Flavor wheel
+# Flavor wheel
 
 #### Steps
 
 1. Look at the flavor wheel: [Interactive Coffee Taster's Flavor Wheel](https://notbadcoffee.com/flavor-wheel-en/) *by notbadcoffee.com*
 2. Start at the center with the more broad flavors and work outwards to the more specific flavors choosing and/or adding flavors along the way
-    1. Repeat the process for as many types of flavors that you discover
-    2. Better understand the meaning of certain flavors if needed by using the [Sensory Lexicon](https://worldcoffeeresearch.org/resources/sensory-lexicon)
+    a. Repeat the process for as many types of flavors that you discover
+    b. Better understand the meaning of certain flavors if needed by using the [Sensory Lexicon](https://worldcoffeeresearch.org/resources/sensory-lexicon)
 
 #### Sample flavors
 
@@ -86,26 +84,24 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - Spice
     - E.g. Cinnamon
 
+#### Compounds
+
+- There are >1,000 chemical compounds in coffee
+- *See [List of chemical compounds in coffee](https://en.wikipedia.org/wiki/List_of_chemical_compounds_in_coffee) by Wikipedia*
+
 #### Resources
 
-- Created by 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Specialty Coffee Association (SCA)"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Specialty Coffee Association (SCA)](#heading=h.4g3dlb9llbut) of America and 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "World Coffee Research (WCR)"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[World Coffee Research (WCR)](#heading=h.l9h2xbgm1oz8) in 1995
+- Created by [Specialty Coffee Association (SCA)](https://hackmd.io/@openinfo/coffee/https%3A%2F%2Fhackmd.io%2F%40openinfo%2Fcoffee-orgs#Specialty-Coffee-Association-SCA) of America and [World Coffee Research (WCR)](https://hackmd.io/@openinfo/coffee/https%3A%2F%2Fhackmd.io%2F%40openinfo%2Fcoffee-orgs#World-Coffee-Research-WCR) in 1995
     - Based on the [Sensory Lexicon](https://worldcoffeeresearch.org/resources/sensory-lexicon) *by World Coffee Research (WCR)*
 - [How to Use the Coffee Taster’s Flavor Wheel in Eight Steps](https://sca.coffee/sca-news/how-to-use-the-flavor-wheel-in-eight-steps) *by Specialty Coffee Association (SCA)*
 - [Coffee Taster's Flavor Wheel](https://sca.coffee/research/coffee-tasters-flavor-wheel) *by Specialty Coffee Association (SCA)*
 
-## Roast type
+# Roast type
 
 #### About
 
 - The roast type is determined by the temperature and length of roasting
+- The beans are the freshest within the first 1-2 weeks after roasting
 
 #### Medium
 
@@ -131,7 +127,7 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - [Acrylamide](https://www.fda.gov/food/process-contaminants-food/acrylamide) *by FDA*
 - [Burnt Food and Carcinogens: What You Need to Know](https://blog.dana-farber.org/insight/2019/09/does-burnt-food-cause-cancer/) *by Dana-Farber Cancer Institute*
 
-## Fermentation
+# Fermentation
 
 #### About
 
@@ -142,13 +138,9 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 - Creaminess
 - Sweetness, e.g. honey: Fermented with pulp
-- Cacao/chocolatiness: Fermented a longer time
+- Cacao/chocolate: Fermented a longer time
 
-## Freshness
-
-- The beans may taste stale after 1-2 weeks from being roasted
-
-## Natural vs synthetic flavor
+# Natural vs synthetic flavor
 
 #### Synthetic chemicals are used in some flavored beans
 
@@ -161,7 +153,12 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - Do most single-origin beans have their natural flavors without the synthetic chemical process?
 - *See [How are Coffee Beans Flavored](https://coffeeinformer.com/flavored-coffee-beans/) by Coffee Informer*
 
-## Coffee species
+#### Hand vs machine separated beans
+
+- Beans that are hand separated have a stronger natural flavor 
+- Hand separated beans retain more of the natural fruit flavor vs machine separated beans
+
+# Coffee species
 
 #### About
 
@@ -180,35 +177,16 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
     - Purple: Darker, e.g. Cacao
     - Red: Floral (Herbal)
     - Larger circles: Represent main species "the mother tree"
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "World Coffee Research (WCR) variety tree"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[World Coffee Research (WCR) variety tree](#heading=h.l9h2xbgm1oz8): [varieties.worldcoffeeresearch.org](https://varieties.worldcoffeeresearch.org)
+- [World Coffee Research (WCR) variety tree](https://hackmd.io/@openinfo/coffee/https%3A%2F%2Fhackmd.io%2F%40openinfo%2Fcoffee-orgs#World-Coffee-Research-WCR): [varieties.worldcoffeeresearch.org](https://varieties.worldcoffeeresearch.org)
 
 #### Rare
 
 - Eugenioides
-    - Unique flavors, e.g. high sweetness
+    - Unique flavors, e.g. High sweetness
     - Low caffeine content
-    - *See [Coffee Plants of the World](https://sca.coffee/research/coffee-plants-of-the-world) by 
+    - *See [Coffee Plants of the World](https://sca.coffee/research/coffee-plants-of-the-world) by [Specialty Coffee Association (SCA)](https://hackmd.io/@openinfo/coffee/https%3A%2F%2Fhackmd.io%2F%40openinfo%2Fcoffee-orgs#Specialty-Coffee-Association-SCA)*
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Specialty Coffee Association (SCA)"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Specialty Coffee Association (SCA)](#heading=h.4g3dlb9llbut)
-
-## Hand vs machine separated beans
-
-#### Hand separated
-
-- Beans that are hand separated have a stronger natural flavor 
-- Hand separated beans retain more of the natural fruit flavor vs machine separated beans
-
-## Compounds
-
-- There are >1,000 chemical compounds in coffee
-- *See [List of chemical compounds in coffee](https://en.wikipedia.org/wiki/List_of_chemical_compounds_in_coffee) by Wikipedia*
-
-## Cupping
+# Cupping
 
 #### About
 
@@ -219,13 +197,9 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 #### Steps
 
 1. Smell the dry roasted coffee grounds and make note of the fragrances
-2. Pour 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "hot water"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[hot water](#heading=h.3ym72zumlrvd) onto the grounds in a container to brew the coffee
-    1. Do not use a coffee filter
-    2. Smell the vapor and make note of the aromas
+2. Pour [hot water](...) onto the grounds in a container to brew the coffee
+    a. Do not use a coffee filter
+    b. Smell the vapor and make note of the aromas
 3. Taste and make note of the flavors
-    3. Use a large spoon to slurp the brewed coffee from the top of the cup
-    4. Taste the flavor when it is hot, warm, and cool
+    a. Use a large spoon to slurp the brewed coffee from the top of the cup
+    b. Taste the flavor when it is hot, warm, and cool

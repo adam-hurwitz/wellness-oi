@@ -7,9 +7,7 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 <h1 style="text-align: center;">☕️ Coffee brewing</h1>
 
-# Brew
-
-## Pour over
+# Pour over
 
 #### Grind
 
@@ -33,7 +31,7 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
   1. Grind the coffee beans to a coarse size
   2. Steep the grinds in cool water and refrigerate for 12 hours
   3. Filter the coffee through a coffee filter
-    - *See [Cold brew](https://eprize-content.s3.amazonaws.com/starbucks/256288_Starbucks_Odyssey/benefits/q2_2023/d141d8978a6ee4eed78c9405762b2bf2_cold_brew_instructions.pdf) by Starbucks Coffee Academy*
+  - *See [Cold brew](https://eprize-content.s3.amazonaws.com/starbucks/256288_Starbucks_Odyssey/benefits/q2_2023/d141d8978a6ee4eed78c9405762b2bf2_cold_brew_instructions.pdf) by Starbucks Coffee Academy*
 
 #### V60 vs Chemex
 
@@ -46,13 +44,9 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - [How Long To Grind Coffee Beans?](https://pageonecoffee.com/how-long-to-grind-coffee-beans) *by PageOneCoffee*
 - [How to Grind Coffee](https://www.konacoffeebeans.org/how-to/how-to-grind-coffee-the-only-guide-youll-ever-need) *by Kona Coffee Buzz*
 
-## Drip machine
+# Drip machine
 
-See 
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Grind"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Grind](#heading=h.inuctg2omvp1)_
+*See [Grind](#Grind)*
 
 #### Bean-to-water ratio
 
@@ -62,7 +56,7 @@ See
     - [How Much Coffee For Drip Coffee Maker?](https://artofbarista.com/how-much-coffee-for-drip-coffee-maker/) *by Art Of Barista*
     - [Here's the secret to a really good cup of drip coffee](https://www.today.com/food/how-make-coffee-drip-coffee-maker-t174977) *by Today*
 
-## Additions
+# Additions
 
 #### Options
 
@@ -72,12 +66,12 @@ See
 
 1. Add cream/milk of choice (Don't do this if the beans are good quality as it will mask the flavor).
 2. Stir in options.
-3. Complete *Pour over* or *Drip machine* steps.
+3. Complete [pour over](#Pour-over) or [drip machine](#Drip-machine) steps.
 4. Stir to mix.
 
 #### Add supplements after brew
 
-1. Complete *Pour over* or *Drip machine* steps.
+1. Complete [pour over](#Pour-over) or [drip machine](#Drip-machine) steps.
 2. Add cream/milk of choice in a separate container.
 3. Stir in options.
 4. Pour into brewed coffee.
