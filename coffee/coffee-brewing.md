@@ -25,7 +25,7 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 #### Iced
 
 - Quick method
-  1. Let the brewed coffee sit for two 2 min.
+  1. Brew the pour over normally and let the brewed coffee sit for a few minutes.
   2. Pour the brewed coffee into an iced container and refrigerate.
 - Complete method
   1. Grind the coffee beans to a coarse size
@@ -36,6 +36,10 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 #### V60 vs Chemex
 
 - A V60 produces better flavor: The groves in the V60 allow the oxygen and steam to vent out the side groves leaving more flavor in the beans
+
+#### Travel
+
+- Use a hair dryer to dry a reusable hemp coffee filter if traveling the same day
 
 #### Resources
 
