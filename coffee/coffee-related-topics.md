@@ -7,9 +7,7 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 <h1 style="text-align: center;">☕️ Coffee related topics</h1>
 
-# Related topics
-
-## Decaf species
+# Decaffeinated species
 
 #### About
 
@@ -22,7 +20,7 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - [Could low caffeine coffee varieties replace decaf?](https://perfectdailygrind.com/2021/06/could-low-caffeine-coffee-varieties-replace-decaf/) *by Perfect Daily Grind*
 - [These coffee beans are decaf, naturally](https://www.nbcnews.com/id/wbna5279843) *by NBC News*
 
-## History
+# History
 
 #### United States west coast coffee hub
 
@@ -38,18 +36,18 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - [German Guatemalan](https://en.wikipedia.org/wiki/German_Guatemalan) *by Wikipedia*
 - [The Central American Coffee Commodity Chain](https://oxfordre.com/latinamericanhistory/display/10.1093/acrefore/9780199366439.001.0001/acrefore-9780199366439-e-606) *by Oxford Research Encyclopedias*
 
-## US customs for travel
+# US customs for travel
 
 - Must declare on customs forms when traveling into the US
 - "Travelers are permitted to bring unlimited quantities of roasted coffee in their luggage without restriction through any U.S. port of entry."
 - *See [International Traveler: Coffee, Teas, Honey, Nuts, and Spices](https://www.aphis.usda.gov/aphis/resources/traveler/intl-travel/coffee-tea-honey-nuts-spices/coffee-tea-honey-nuts-spices) by United States Department of Agriculture (USDA)*
 
-## Southeast Asia (SEA)
+# Southeast Asia (SEA)
 
 - [Best coffee destinations in Southeast Asia?](https://www.reddit.com/r/Coffee/comments/10hglby/best_coffee_destinations_in_southeast_asia/) *on r/coffee*
 - [Vietnam’s Agriculture: A New Frontier For Premium Consumer Products In The U.S.](https://www.forbes.com/sites/douglasyu/2023/11/10/vietnams-agriculture-a-new-frontier-for-premium-consumer-products-in-the-us/) *by Forbes*
 
-## Other
+# Other
 
 - Bean reviews: [coffeebeans.fyi](https://www.coffeebeans.fyi)
 - [The different types of coffee drinks](https://imgur.com/C6UgPVO)

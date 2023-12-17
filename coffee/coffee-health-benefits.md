@@ -7,34 +7,33 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 <h1 style="text-align: center;">☕️ Coffee health benefits</h1>
 
-# Health benefits
-
-## Timing
+# Timing
 
 - 12 pm caffeine cutoff
 - 2 pm decaf cutoff
-- Half-life: 3 - 7 hours
-    - [Caffeine](https://en.wikipedia.org/wiki/Caffeine#Pharmacokinetics)_ on Wikipedia_
+- Half-life: 3-7 hours
+    - [Caffeine](https://en.wikipedia.org/wiki/Caffeine#Pharmacokinetics) *on Wikipedia*
     - [How Long Does Caffeine Last?](https://www.healthline.com/health/how-long-does-caffeine-last) *by Healthline*
 
-## Protective
+# Protective
 
-- Depression (caffeinated)
-- Cardiovascular disease: 3 - 5 cups
+- Depression (Caffeinated)
+- Cardiovascular disease: 3-5 cups
     - Anti-inflammatory
-    - Higher HDL/lower LDL
+    - Higher HDL/Lower LDL
     - Type 2 diabetes
     - Stroke
 - Cancer
-    - Inhibit metastasis (spread of growth)
+    - Inhibit metastasis (Spread of growth)
     - Regulate genes that are involved in gene repair
-    - E.g. Breast (caffeinated), prostate, liver (caffeinated, 1 cup, daily), colon, and skin
+    - E.g. Breast (Caffeinated), prostate, liver (Caffeinated, 1 cup, daily), colon, and skin
 - Dementia
 - Parkinsons (Caffeinated)
-- Both caf/decaf are beneficial.
-- Benefits due to high level of [polyphenols](https://en.wikipedia.org/wiki/Polyphenol#Potential_health_effects) that act as antioxidants
-- Inflammation (Add turmeric and fat, e.g., cream)
-    - [10 Benefits of Golden (Turmeric) Milk and How to Make It](https://www.healthline.com/nutrition/golden-milk-turmeric) *by Healthline*
+- Both caffeinated/decaffeinated are beneficial
+- Benefits due to high level of polyphenols that act as antioxidants
+    - *See [polyphenol](https://en.wikipedia.org/wiki/Polyphenol) on Wikipedia*
+- Inflammation (Add turmeric and fat, e.g., Cream)
+    - *See [10 Benefits of Golden (Turmeric) Milk and How to Make It](https://www.healthline.com/nutrition/golden-milk-turmeric) by Healthline*
 - Blood Sugar (Add cinnamon)
     - Types
         - Ceylon (Potentially more antioxidants)
@@ -48,12 +47,13 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - See if you're a slow caffeine metabolizer
     - Gene CYP1
 
-## Avoid
+# Avoid
 
 - Pesticides
-- Mold/mycotoxins
+- Mold
+- Mycotoxins
 
-## Resources
+# Resources
 
 - [The Ultimate Coffee Podcast](https://bengreenfieldfitness.com/podcast/nutrition-podcasts/healthiest-coffee/) *by Ben Greenfield Fitness podcast*
 - [Live a Longer, Healthier Life Podcast With Dr. Sanjiv Chopra](https://bengreenfieldfitness.com/podcast/anti-aging-podcasts/live-a-longer-healthier-life-podcast-with-dr-sanjiv-chopra/) *by Ben Greenfield Fitness podcast*
