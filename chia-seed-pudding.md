@@ -33,6 +33,11 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - Matcha green tea for caffeine
 - etc.
 
-# Optional steps
+## Optional steps
 
 - Let the pudding sit in the fridge for 10 min or overnight for a thicker consistency
+
+## Freshness
+
+- The freshness of the chia seeds potentially impacts how quickly they expand and thicken the pudding
+- The older/less fresh the seeds are the longer it may take to thicken
