@@ -80,6 +80,10 @@ Breathing and cold exposure practice to provide potential physical and mental be
     - Run or walk outside in cold weather
     - Cold showers in hot weather
 
+## To research
+- Are there benefits starting hot and moving to cold? (Assuming starting with cold is more beneficial)
+- Is occasional exposure beneficial, e.g. a few times a week or month compared to daily?
+
 ## Resources
 - Huberman Lab: [Heat Exposure and Cold Exposure to Optimize Health](https://www.hubermanlab.com/topics/heat-exposure-and-cold-exposure-to-optimize-health)
     - [Dr. Susanna Søberg: How to Use Cold & Heat Exposure to Improve Your Health](https://www.hubermanlab.com/episode/dr-susanna-soberg-how-to-use-cold-and-heat-exposure-to-improve-your-health)
