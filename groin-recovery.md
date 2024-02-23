@@ -93,14 +93,16 @@ Quads, above the groin, side/hip area towards the butt
 - YouTube search ["upward facing dog"](https://www.youtube.com/results?search_query=Upward+dog)
 
 #### Hip flexor
-- About: Stretches the piriformis
+- About
+    - Stretches the piriformis
+    - *Search "[piriformis stretch](https://www.youtube.com/results?search_query=piriformis+stretch)" on YouTube*
 - Lunge
     - Be in a kneeling position
     - Move your hips and upper body forward towards the front leg while keeping a tight core and straight back and neck posture
     - Hold in the front position for 15-30 sec
     - Switch sides and repeat
     - *See [Hip Labral Tear Exercises That Can Help Speed Up Your Recovery](https://www.livestrong.com/article/188528-what-are-some-exercises-for-hip-labral-tear-recovery) by Livestrong*
-* Lying
+- Lying
     - Lie on your back with both legs flat on the ground
     - Pull your stretching leg's knee towards your chest with your hands
         - Optional: Keep one knee bent
@@ -110,10 +112,8 @@ Quads, above the groin, side/hip area towards the butt
     - Hold onto your ankle with one hand and the knee with the other hand pulling your knee toward chest
     - Keep the other leg flat on the ground
     - Switch sides and repeat
-    - *See [Hip Labral Tear Exercises That Can Help Speed Up Your Recovery](https://www.livestrong.com/article/188528-what-are-some-exercises-for-hip-labral-tear-recovery) by Livestrong*
 - Seated
-    - You can do the same stretch while sitting
-    - *See [Piriformis Syndrome Stretches & Exercises - Ask Doctor Jo](https://www.youtube.com/watch?v=iqQDmakOvN8) on YouTube*
+    - You can do a similar stretch while sitting
 
 #### Bent knee declines
 - Time: 1-2 minutes
