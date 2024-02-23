@@ -101,9 +101,14 @@ Quads, above the groin, side/hip area towards the butt
     - Switch sides and repeat
     - *See [Hip Labral Tear Exercises That Can Help Speed Up Your Recovery](https://www.livestrong.com/article/188528-what-are-some-exercises-for-hip-labral-tear-recovery) by Livestrong*
 * Lying
-    - Lie on your back
-    - Bend both knees and cross one leg's ankle over the other opposite legs knee
-    - Pull the opposite leg's knee towards your abdomen with your hands and hold for 15-30 sec
+    - Lie on your back with both legs flat on the ground
+    - Pull your stretching leg's knee towards your chest with your hands
+        - Optional: Keep one knee bent
+            - Cross the stretching leg's ankle on the bent knee
+            - Pull the bent knee towards your chest
+    - Rotate your hip externally by bringing your foot towards your opposite hip
+    - Hold onto your ankle with one hand and the knee with the other hand pulling your knee toward chest
+    - Keep the other leg flat on the ground
     - Switch sides and repeat
     - *See [Hip Labral Tear Exercises That Can Help Speed Up Your Recovery](https://www.livestrong.com/article/188528-what-are-some-exercises-for-hip-labral-tear-recovery) by Livestrong*
 - Seated
@@ -131,7 +136,7 @@ Quads, above the groin, side/hip area towards the butt
         - Pull the leg in the opposite direction of the resistance in a slow and controlled motion
         - Keep the knee straight with the toes and foot at 90ºs to the leg
         - Do 10-25 reps per set
-    - Switch sides and repeat
+    - Switch sides after a complete set and repeat
     - *See [Hip Labral Tear Stretches & Exercises](https://youtu.be/yZLMCAzKZz8?si=Lm7f3NhNZy-BF0G4&t=32) on YouTube*
 - 3-way steps
     - Aka Monster walk
@@ -141,7 +146,7 @@ Quads, above the groin, side/hip area towards the butt
         - Rest for 30 seconds
     - Walk laterally for 15-20 repetitions on 1 side
         - Rest for 30 seconds
-        - Switch sides and repeat
+        - Switch sides after a complete set and repeat
     - *See [The Best Exercises to Prevent and Treat a Hip Labral Tear](https://www.runnersworld.com/health-injuries/a29425202/hip-labral-tear/) by Runners World*
 
 #### 1-foot balance
@@ -180,14 +185,33 @@ Quads, above the groin, side/hip area towards the butt
     - *See [Top 6 Exercises For Naturally Healing A Painful Torn Hip Labrum](https://youtu.be/TH7QuyxXhME?si=0k-T6izALlew8Aa5&t=300) on YouTube*
 - Glute bridges
     - Lie on your back on the ground with both knees bent and your feet on the floor
-    - Lift your butt off the ground and hold it in that position
+    - Lift your butt off the ground into a straight line from the shoulder to the knees
     - Make sure you're using your glute/butt muscles
         - You should not feel it in the quads, hamstrings, back, stomach, etc.
         - Modifications
             - Try grounding your heels and lifting your toes off the ground when lifting your butt
             - Place a firm object between the knees during the exercise
             - Place a firm resistance band around the knees during the exercise
+    - Optional: Hold the up position for a few seconds
     - *See [Glute Bridge Exercise - The correct way of doing it](https://www.youtube.com/watch?v=Q_Bpj91Yiis) on YouTube*
+- Face down leg raises
+    - Aka Prone hip extension with bent knee
+    - Lie on your stomach on the ground with one leg straight on the ground and the other leg with the knee bent 90º
+    - Slowly raise your leg with the bent knee off the ground
+    - Switch sides after a complete set and repeat
+    - *See [Prone Knee Flexion with Hip Extension](https://www.youtube.com/watch?v=WqpeT8DLWkc) on YouTube*
+
+#### Pelvic tilts
+- Lie on your back on the ground with both knees bent and your feet on the floor
+- Use your abdomen to press your lower back into the ground
+    - Test your form by placing one hand underneath your lower back to feel the lower back pressing down on the hand
+- *See [Supine Pelvic Tilts - Moving through Cancer – Penn State College of Medicine](https://www.youtube.com/watch?v=TWuR_U9ddcc) on YouTube*
+
+#### Straight leg raise
+- Lie on your back on the ground with one knee bent and the other leg straight lieing on the ground
+- Raise the straight leg off the ground up to the top of the bent knee
+- Switch sides after a complete set and repeat
+- *See [Straight Leg Raise](https://www.youtube.com/watch?v=JMsqY_UegbM) on YouTube*
 
 #### Single-leg deadlift
 - Stand with feet hip width apart
