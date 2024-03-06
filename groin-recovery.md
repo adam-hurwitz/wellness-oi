@@ -187,8 +187,11 @@ Quads, above the groin, side/hip area towards the butt
     - Lie on your back on the ground with both knees bent and your feet on the floor
     - Lift your butt off the ground into a straight line from the shoulder to the knees
     - Make sure you're using your glute/butt muscles
-        - You should not feel it in the quads, hamstrings, back, stomach, etc.
+        - You should not feel it in the quads, hamstrings, knees, back, stomach, etc.
         - Modifications
+            - Feet position
+                - Feet closer to the glutes: More glute work
+                - Feet further from the glutes: More hamstrings work
             - Try grounding your heels and lifting your toes off the ground when lifting your butt
             - Place a firm object between the knees during the exercise
             - Place a firm resistance band around the knees during the exercise
