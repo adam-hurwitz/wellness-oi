@@ -1,11 +1,11 @@
 ---
-title: 🦵🏻 Groin recovery
+title: 🦵🏻 Hip and groin recovery
 tags: wellness
-description: Groin recovery open info (OI)
+description: Hip and groin recovery open info (OI)
 image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 ---
 
-<h1 style="text-align: center;">🦵🏻 Groin recovery</h1>
+<h1 style="text-align: center;">🦵🏻 Hip and groin recovery</h1>
 
 # Conditions
 
@@ -210,11 +210,26 @@ Quads, above the groin, side/hip area towards the butt
     - Test your form by placing one hand underneath your lower back to feel the lower back pressing down on the hand
 - *See [Supine Pelvic Tilts - Moving through Cancer – Penn State College of Medicine](https://www.youtube.com/watch?v=TWuR_U9ddcc) on YouTube*
 
+#### Seated leg raises
+- Sit with your legs slightly sloping downwards with a resistance band around the balls of the feet
+- Raise your leg to where the bottom of the raised foot reaches the resting leg's mid calf
+- Alternate raising legs
+
 #### Straight leg raise
 - Lie on your back on the ground with one knee bent and the other leg straight lieing on the ground
 - Raise the straight leg off the ground up to the top of the bent knee
 - Switch sides after a complete set and repeat
 - *See [Straight Leg Raise](https://www.youtube.com/watch?v=JMsqY_UegbM) on YouTube*
+
+#### Tridirectional leg raise
+- Lie on your side with the bottom leg bent backwards and the top leg resting straight on top
+- Slowly raise the top leg keeping the leg straight and slowly move the top leg back down
+    - Keep the the toes pointed forward
+- Switch directions after a complete set and repeat both forwards and backwards
+    - If possible complete all 3 directions without bringing the hip down
+- Resources
+    - [Hip Abduction in Sidelying - Ask Doctor Jo ](https://www.youtube.com/watch?v=EwBJKBa4PKU) *on YouTube*
+    - [Sidelying Hip Abduction with Flexion and Extension](https://www.youtube.com/watch?v=bXzyqIX0R5w) *on YouTube*
 
 #### Single-leg deadlift
 - Stand with feet hip width apart
