@@ -74,7 +74,10 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 # Stretches
 
 #### Foam rolling
-Quads, above the groin, side/hip area towards the butt
+- Start at the hip area towards the butt
+- Move to the side and front above the groin
+- Then down to quad and knee
+- Switch sides and repeat
 
 #### Sniper leg stretch
 - Lie on your stomach
@@ -125,6 +128,16 @@ Quads, above the groin, side/hip area towards the butt
 - Time: 2-3 minutes
 - Sit and move your leg(s) in and out
 - *See [Top 6 Exercises For Naturally Healing A Painful Torn Hip Labrum](https://youtu.be/TH7QuyxXhME?si=94utzXBZ1jfXnCuW&t=113) on YouTube*
+
+#### Massage guns
+- Hip and groin notes
+    - Never use on the bone directly. Always use near and around the bone.
+    - Use around the hip bone down to the outer thigh
+    - Use around the hip bone back to the upper glutes
+- Search
+    - [8 Best Massage Guns for 2024, According to Pros](https://www.healthline.com/health/fitness/best-massage-guns) *by healthline*
+    - [The 8 best massage guns 2024 to relieve muscle pain and tension](https://www.tomsguide.com/best-picks/best-massage-guns) *by Tom's Guide*
+    - [The Best Massage Guns](https://www.nytimes.com/wirecutter/reviews/best-massage-guns/) *by Wirecutter*
 
 # Exercises
 
@@ -221,15 +234,24 @@ Quads, above the groin, side/hip area towards the butt
 - Switch sides after a complete set and repeat
 - *See [Straight Leg Raise](https://www.youtube.com/watch?v=JMsqY_UegbM) on YouTube*
 
-#### Tridirectional leg raise
-- Lie on your side with the bottom leg bent backwards and the top leg resting straight on top
-- Slowly raise the top leg keeping the leg straight and slowly move the top leg back down
-    - Keep the the toes pointed forward
-- Switch directions after a complete set and repeat both forwards and backwards
-    - If possible complete all 3 directions without bringing the hip down
+#### Multidirectional leg raises
+- About
+    - Do as many exercises in this series as you can without stopping and bringing the hip down in between sets
+    - Stop if you need to and resume the series
+- Position: Lie on your side with the bottom leg bent backwards and the top leg resting straight on top
+- Exercises
+    1. Vertical
+        a. Slowly raise the top leg keeping the leg straight and slowly move the top leg back down
+        b. Keep the the toes pointed forward
+    2. Forward and backward
+        a. Switch directions after a complete set and repeat both forwards and backwards
+    3. Circles
+        a. Make small circles in a clockwise direction for 1 set
+        b. Switch to a counterclockwise direction for a 2nd set
 - Resources
     - [Hip Abduction in Sidelying - Ask Doctor Jo ](https://www.youtube.com/watch?v=EwBJKBa4PKU) *on YouTube*
     - [Sidelying Hip Abduction with Flexion and Extension](https://www.youtube.com/watch?v=bXzyqIX0R5w) *on YouTube*
+    - [Side lying hip circles](https://www.youtube.com/watch?v=mnmNNVlc75E) *on YouTube*
 
 #### Single-leg deadlift
 - Stand with feet hip width apart
