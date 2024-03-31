@@ -80,6 +80,11 @@ Breathing and cold exposure practice to provide potential physical and mental be
     - Run or walk outside in cold weather
     - Cold showers in hot weather
 
+## Testosterone
+- Cold exposure potentially increases testosterone
+- *See [How to Optimize Fertility in Males & Females](https://www.hubermanlab.com/episode/how-to-optimize-fertility-in-males-and-females) by Huberman Lab*
+    - *[Testosterone increases](https://pca.st/1dlqengx?t=10639) (02:57:19)*
+
 ## To research
 - Are there benefits starting hot and moving to cold? (Assuming starting with cold is more beneficial)
 - Is occasional exposure beneficial, e.g. a few times a week or month compared to daily?
@@ -96,4 +101,4 @@ Breathing and cold exposure practice to provide potential physical and mental be
 - Facebook group: [facebook.com/groups/wimhofmethod](https://www.facebook.com/groups/wimhofmethod/)
 - Reddit: [r/BecomingTheIceMan](https://www.reddit.com/r/BecomingTheIceman)
 
-<p style="text-align: center; font-style: italic">This is not medical advice. Do your own research and consult a medical professional.</p>
+<p style="text-align: center; font-style: italic">This is not medical advice. Do your own research.</p>
