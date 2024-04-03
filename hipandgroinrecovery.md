@@ -208,7 +208,13 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
             - Try grounding your heels and lifting your toes off the ground when lifting your butt
             - Place a firm object between the knees during the exercise
             - Place a firm resistance band around the knees during the exercise
-    - Optional: Hold the up position for a few seconds
+    - Optional
+        - Hold the up position for a few seconds
+        - Staggered glute bridges
+            - About: Makes the exercise harder by isolating each glute more
+            - Same position as glute bridges with sliding the passive side's foot further away from the glute
+            - Switch sides after a complete set and repeat
+            - *See [ Staggered Bridge ](https://www.youtube.com/watch?v=x0wMp74V5_8) on YouTube*
     - *See [Glute Bridge Exercise - The correct way of doing it](https://www.youtube.com/watch?v=Q_Bpj91Yiis) on YouTube*
 - Face down leg raises
     - Aka Prone hip extension with bent knee
@@ -216,6 +222,13 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
     - Slowly raise your leg with the bent knee off the ground
     - Switch sides after a complete set and repeat
     - *See [Prone Knee Flexion with Hip Extension](https://www.youtube.com/watch?v=WqpeT8DLWkc) on YouTube*
+- Hands and knees leg raises
+    - Aka bird dog exercise
+    - Move onto your hands and knees with a flat back
+    - Tighten the abdomen to raise the opposite leg backwards and arm forwards into straight positions
+    - Lower the arm and leg down
+    - Alternate raising sides of the body with each repetition
+    - *See [Bird Dogs - Moving through Cancer – Penn State College of Medicine](https://www.youtube.com/watch?v=GCMWp6iBXwU) on YouTube*
 
 #### Pelvic tilts
 - Lie on your back on the ground with both knees bent and your feet on the floor
@@ -223,16 +236,22 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
     - Test your form by placing one hand underneath your lower back to feel the lower back pressing down on the hand
 - *See [Supine Pelvic Tilts - Moving through Cancer – Penn State College of Medicine](https://www.youtube.com/watch?v=TWuR_U9ddcc) on YouTube*
 
-#### Seated leg raises
-- Sit with your legs slightly sloping downwards with a resistance band around the balls of the feet
-- Raise your leg to where the bottom of the raised foot reaches the resting leg's mid calf
-- Alternate raising legs
-
-#### Straight leg raise
+#### Lying straight leg raises
 - Lie on your back on the ground with one knee bent and the other leg straight lieing on the ground
 - Raise the straight leg off the ground up to the top of the bent knee
 - Switch sides after a complete set and repeat
 - *See [Straight Leg Raise](https://www.youtube.com/watch?v=JMsqY_UegbM) on YouTube*
+
+#### Seated leg raises
+- Sit with your legs slightly sloping downwards with a resistance band around the balls of the feet
+- Raise your leg to where the bottom of the raised foot reaches the resting leg's mid calf
+- Alternate raising legs with each repetition
+
+#### Lying resistance band leg raises
+- Lie on your back on the ground with both legs flat and a resistance band around the balls of the feet 
+- Pull 1 leg upwards towards the chest bending the knee and hold at the top for 3 seconds
+- Slowly lower the leg back down
+- Alternate raising legs with each repetition
 
 #### Multidirectional leg raises
 - About
